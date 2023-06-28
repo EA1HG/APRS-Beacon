@@ -35,9 +35,9 @@ https://sig.rocha.gub.uy/sig/coordenadas/
 
 complete con cero a la izquierda , para para que coincida coordenadas con formato , ejemplo:
 
- 8.5.3N  =  08.05.03N
+40.05.03N
 
- 80.3.5W  =  080.03.05W
+005.23.05W
 
 
 # Iniciar beacon 
@@ -46,9 +46,9 @@ Cuando finalice de configurar sus datos, solo debe ingresar al menú 9 , para in
 
 Ejemplo:
 
-   Beacon 1 = HP0XXX-10
+   Beacon 1 = EA1XXX-10
 
-   Beacon 2 = HP0XXX-11
+   Beacon 2 = EA1XXX-11
 
 
 #
