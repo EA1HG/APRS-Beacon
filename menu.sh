@@ -6,7 +6,7 @@ if [[ $EUID -ne 0 ]]; then
 fi
 
 while : ; do
-choix=$(whiptail --title "Raspbian Proyect HP3ICC Menu Python-APRS" --menu "Suba o Baje con las flechas del teclado y seleccione el numero de opcion:" 23 56 13 \
+choix=$(whiptail --title " Proyect EA1HG Menu Python-APRS" --menu "Suba o Baje con las flechas del teclado y seleccione el numero de opcion:" 23 56 13 \
 1 " Editar Beacon-1 " \
 2 " Editar Beacon-2 " \
 3 " Editar Beacon-3 " \
