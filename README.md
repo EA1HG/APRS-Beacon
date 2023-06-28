@@ -23,7 +23,8 @@ Python APRS Beacon , esta creado para ser utilizado en cualquier dispositivo con
 ```
 # Configuración 
 
-Desde de su consola terminal o ssh , escriba : menu-py-aprs , y  seleccione el número de Beacon que desea habilitar, coloque su indicativo , aprspasscode y coordenadas , Python APRS Beacon permite publicar comentario beacon y estado beacon, también puede colocar aprs simbol de su preferencia .
+Desde de su consola terminal o ssh , escriba : 
+menu-py-aprs , y  seleccione el número de Beacon que desea habilitar, coloque su indicativo , aprspasscode y coordenadas , Python APRS Beacon permite publicar comentario beacon y estado beacon, también puede colocar aprs simbol de su preferencia .
 
 # Coordenadas 
 
