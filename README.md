@@ -1,6 +1,9 @@
 # Python APRS Beacon
 
-<img src="https://gitlab.com/hp3icc/python-aprs-beacon/-/raw/main/python-aprs.jpg" width="400" height="380">
+![Clipboard01](https://github.com/EA1HG/APRS-Beacon/assets/6223547/b7d41b6d-b4f4-4062-a8e9-ba9239b30fdc)
+
+
+
 
 
 Python APRS Beacon
