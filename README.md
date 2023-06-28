@@ -18,7 +18,7 @@ Python APRS Beacon , esta creado para ser utilizado en cualquier dispositivo con
 
  apt-get install curl sudo -y
  
- bash -c "$(curl -fsSL https://gitlab.com/hp3icc/python-aprs-beacon/-/raw/main/install-py-aprs.sh)"
+ bash -c "$(curl -fsSL https://github.com/EA1HG/APRS-Beacon/blob/main/install-py-aprs.sh)"
 
 ```
 # Configuración 
