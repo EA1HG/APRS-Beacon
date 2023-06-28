@@ -47,12 +47,12 @@ sudo cat > /opt/python-aprs/bcom1.py <<- "EOFB"
 import socket
 import time
 
-callsign = "HP0XX-10"     # Callsign
+callsign = "EA1XXX-10"     # Callsign
 password = "12345"           # aprspasscode (12345)
-latitude = "08.31.27N"        # DD.MM.mmN   (08.31.27N)
-longitude = "080.21.59W"      # DDD.MM.mmW (080.21.59W)
+latitude = "40.31.27N"        # DD.MM.mmN   (40.31.27N)
+longitude = "05.21.59W"      # DDD.MM.mmW (005.21.59W)
 comment = "Python APRS BEACON-1"  # coment beacon
-state = "Python APRS Beacon by HP3ICC" # Beacon state
+state = "Python APRS Beacon by EA1HG" # Beacon state
 simbol_primary = "/"       # simbol id
 simbol_secundary = "r"     # simbol code
 serverHost = "rotate.aprs2.net" # aprs server url
@@ -64,7 +64,7 @@ every = 20                    # time minute every send beacon
 
 ##############################################################################
 address = f"{callsign}>APHPIB,TCPIP:"
-login = f"user {callsign} pass {password} vers emq-TE1 Python APRS Beacon 1.3"
+login = f"user {callsign} pass {password} vers Python APRS Beacon 1.3"
 latg = latitude.replace(".", "", 1)
 long = longitude.replace(".", "", 1)
 msg_state = f"{state}"
